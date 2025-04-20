@@ -1,9 +1,11 @@
-# Marine Acoustic Signal Classification
+# 🔉 Marine Acoustic Signal Classification 
+(toujours en cours)
+
 
 ![Python](https://img.shields.io/badge/Python-100%25-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-Marine Acoustic Signal Classification is a machine learning project aimed at analyzing and classifying marine sounds such as whale calls, ship noises, and background oceanic sounds. The project leverages cutting-edge tools in audio processing and deep learning to provide accurate classification results.
+Marine Acoustic Signal Classification is a machine learning project aimed at analyzing and classifying marine sounds such as whale calls, ship noises, and background oceanic sounds. The project leverages python libraries in audio processing and deep learning to provide accurate classification results.
 
 ## Table of Contents
 
