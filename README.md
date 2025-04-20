@@ -1,5 +1,5 @@
 # 🔉 Marine Acoustic Signal Classification 
-(toujours en cours)
+(toujours en cours / still in progress)
 
 
 ![Python](https://img.shields.io/badge/Python-100%25-blue)
